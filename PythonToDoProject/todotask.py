@@ -1,10 +1,13 @@
 # This is python project for to do in python : 
+# we will push this project to github and we will use it as a reference for our future projects.
+# this is testing and basic project for to do list in python :
+
 
 tasks = []
 
 
 def show_menu():
-    print("\n===== TO DO LIST =====")
+    print("\n TO DO LIST BY AJAY KUSH!") 
     print("1. View Tasks")
     print("2. Add Task")
     print("3. Remove Task")
@@ -81,7 +84,7 @@ def main():
                 remove_task()
 
             case "4":
-                print("\nExit 👋")
+                print("\nExiting the program.")
                 break
 
             case _:
