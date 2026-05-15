@@ -27,6 +27,7 @@ This is a simple to do list project in Python. We will create a command line app
 If you would like to contribute to this project, please fork the repository and create a pull request
 with your changes. We welcome any contributions that can improve the functionality or user experience of the to do list application.
 
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
