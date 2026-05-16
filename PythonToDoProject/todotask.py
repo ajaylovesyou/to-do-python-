@@ -2,19 +2,14 @@
 # we will push this project to github and we will use it as a reference for our future projects.
 # this is testing and basic project for to do list in python :
 
-
 tasks = []
-
-
 def show_menu():
     print("\n TO DO LIST BY AJAY KUSH!") 
     print("1. View Tasks")
     print("2. Add Task")
     print("3. Remove Task")
     print("4. Exit")
-
-
-
+    
 def view_tasks():
 
     if len(tasks) == 0:
@@ -89,8 +84,6 @@ def main():
 
             case _:
                 print("\nInvalid choice.")
-
-
 
 if __name__ == "__main__":
    main()
